@@ -2,9 +2,6 @@
 
 # 🎬 Netflix Data Analysis using SQL
 
-
-# 🎬 Netflix Data Analysis using SQL
-
 ## 📌 Project Overview
 
 This project focuses on analyzing Netflix content data using SQL. The dataset contains information about movies and TV shows available on Netflix, including directors, cast members, countries, ratings, release years, durations, genres, and descriptions.
