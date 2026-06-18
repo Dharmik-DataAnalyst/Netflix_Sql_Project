@@ -1,4 +1,4 @@
-![Netflix SQL Project Banner](BANNER.png)
+![Netflix SQL Project Banner](Banner.png)
 
 # 🎬 Netflix Data Analysis using SQL
 
