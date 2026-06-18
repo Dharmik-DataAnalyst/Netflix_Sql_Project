@@ -55,7 +55,6 @@ The dataset contains information such as:
 - Aggregate Functions
 - String Functions
 - Date Functions
-- GitHub
 
 ---
 
